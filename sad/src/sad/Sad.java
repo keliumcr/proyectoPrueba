@@ -18,6 +18,11 @@ public class Sad {
      */
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null, "Hola mundo para git !");
+        JOptionPane.showMessageDialog(null, ":D:D:");
+        JOptionPane.showMessageDialog(null, ":v:v:V:");
+        JOptionPane.showMessageDialog(null, "Hola mundo para git !");
+        JOptionPane.showMessageDialog(null, "Hola mundo para git !");
+
     }
     
 }
